@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453385226252",
+    "project_id": "sparepartscontrol",
+    "storage_bucket": "sparepartscontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453385226252:android:f175b188aadd0acf908629",
+        "android_client_info": {
+          "package_name": "com.example.sparepartscontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453385226252-h46ij68fur2pa39c8crh5lo2vmhtde4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrz-UtWon5jqZDCajQih09RJVLD_XzpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453385226252-h46ij68fur2pa39c8crh5lo2vmhtde4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
